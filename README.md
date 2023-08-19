@@ -1,4 +1,4 @@
-# Authentication & Authorization
+# E-Commerce Project (Authentication & Authorization)
 
 - Client Server Communication
   - Authentication & Authorization
